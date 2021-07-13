@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... AWS
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
+- 🔭 I’m currently working on ... Blabber
+- 🌱 I’m currently learning ... Amazon Web Services!
+- 🤔 I’m looking for help with ... Amzon Web Services haha
 - 💬 Ask me about ... React!
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/wren-mcpherson/) and [Gmail](mailto:wren.mcpherson@gmail.com)
 - 😄 Pronouns: ... She/Her
